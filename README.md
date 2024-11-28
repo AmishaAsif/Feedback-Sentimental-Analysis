@@ -1,1 +1,4 @@
 # Feedback-Sentimental-Analysis
+One of the applications of text mining is sentiment analysis. Most of the data is getting generated in textual format and in the past few years. Improvement is a continuous process and many product based companies leverage these text mining techniques to examine the sentiments of the customers to find about what they can improve in the product. This information also helps them to understand the trend and demand of the end user which results in Customer satisfaction.
+
+As text mining is a vast concept, the article is divided into two subchapters. The main focus of this project is calculating two scores: sentiment polarity and subjectivity using python. The range of polarity is from -1 to 1(negative to positive) and will tell us if the text contains positive or negative feedback.
